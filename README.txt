@@ -1,6 +1,7 @@
 Library to draw shapes with cursor for Ardunio (Pro) Micro and Ardunio Leonardo Mouse Emulation.
 
 Created by Maciej Zajaczkowski，Copyright 2020 ©. Free free to use this library even for commercial purposes, but please attribute me.
+License: Creative Commons Attribution 4.0
 
 #include <mouse_graphics_drawer.h>
 
