@@ -2,7 +2,7 @@
 #define MOUSE_GRAPHICS_DRAWER_H
 
 #include <Arduino.h>
-#include <Mouse.h>
+#include <HID-Project.h>
 
 void mouse_draw_triangle(int d = 20);
 void mouse_draw_square(int d = 20);
