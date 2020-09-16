@@ -6,7 +6,6 @@
 
 //please note shapes are usually drawn from the bottom left.
 
-#include "Mouse.h"
 #include <mouse_graphics_drawer.h>
 
 
